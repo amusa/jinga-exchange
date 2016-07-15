@@ -7,6 +7,7 @@ The mutual exchange must consist of two individuals both in foreign countries wh
 The transfer of money to respective beneficiary accounts takes place automatically when both parties pay the respective amount to their IMEX account.The transaction is reversed when at least one party fails to make payment within a specified period (eg 48 hours).
 
 #Use Case Diagram
+![imex use-case - use-case](https://cloud.githubusercontent.com/assets/2440864/16878218/9d378ef8-4aa3-11e6-90a8-c256a728ac46.png)
 
 
 #Context Diagram
