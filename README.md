@@ -1,7 +1,7 @@
 # Jinga Exchange
 
 ## Overview
-Jinga Exchange is a one-stop portal, offering a platform for people to exchange foreign currencies without the physical movement of money between countries. It standardizes and systemizes the existing practice of manual money exchange between acquaintances, by introducing transparency and convenience without sacrificing security.
+Jinga Exchange is an alternative means of exchanging foreign currencies. It offers a platform for interested parties to mutually exchange foreign currencies without the physical movement of money between country boundaries. The Jinga system standardizes and systemizes the existing practice of manual money exchange between acquaintances, by introducing transparency and convenience without sacrificing security.
 
 Money exchange on Jinga platform is a bipartite transaction involving two currencies respectively, and both parties must agree on a conversion rate. 
 
